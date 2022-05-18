@@ -1,0 +1,16 @@
+﻿  methodForfeit.cpp
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(42,27): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(44,33): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(76,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(76,140): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(76,208): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(98,71): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(98,135): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(138,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(139,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(149,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(158,65): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(217,9): warning C4101: eps1: неиспользованная локальная переменная
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(217,15): warning C4101: eps2: неиспользованная локальная переменная
+C:\Users\mrsli\source\repos\methodForfeit\methodForfeit\methodForfeit.cpp(123): warning C4172: возвращение адреса локальной или временной переменной : ans
+  methodForfeit.vcxproj -> C:\Users\mrsli\source\repos\methodForfeit\x64\Debug\methodForfeit.exe
